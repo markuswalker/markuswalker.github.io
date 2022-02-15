@@ -1,10 +1,11 @@
 @font-face {
   font-family: 'Credit Card';
-  src: url(../fonts/Credit-Card_Font.ttf) format('truetype');
+  src: url(../fonts/Credit-Card-Font.ttf);
   font-weight: 400;
   font-style: normal;
 }
 
 body{
   color: red !important;
+  background:aliceblue;
 }
